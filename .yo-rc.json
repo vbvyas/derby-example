@@ -1,0 +1,9 @@
+{
+  "generator-derby": {
+    "project": "derby example",
+    "apps": [
+      "derby-example"
+    ],
+    "coffee": false
+  }
+}
